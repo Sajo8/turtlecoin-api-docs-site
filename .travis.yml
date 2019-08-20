@@ -10,7 +10,6 @@ deploy:
   keep-history: true
   local_dir: build
   on: turtle-master
-  fqdn: api-docs.turtlecoin.lol
   verbose: true
 
 before_install:
